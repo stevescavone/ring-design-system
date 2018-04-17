@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Summary
 
 ## Overview
@@ -39,4 +40,9 @@
 ## Resources
 
 * [Read more](resources/read-more.md)
+=======
+# Table of contents
+
+* [Getting started](README.md)
+>>>>>>> c7ef45df4e8041d5709b395be98a338632a0bfb4
 
