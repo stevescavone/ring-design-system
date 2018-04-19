@@ -1,7 +1,5 @@
 # 01 Color
 
-## Primary Colors
-
 ### Ring Blue
 
 ![](../.gitbook/assets/color-01-blue.png)
@@ -83,9 +81,11 @@
 
 ### Color Palette
 
-### iOS, Swift 4
-
-```text
+{% tabs %}
+{% tab title="iOS" %}
+{% code-tabs %}
+{% code-tabs-item title="UIColor+RingColors" %}
+```swift
 extension UIColor {
 
   @nonobjc class var ringBlue100: UIColor {
@@ -196,12 +196,17 @@ extension UIFont {
 
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
 
-### Android, XML
-
-```text
+{% tab title="Android" %}
+{% code-tabs %}
+{% code-tabs-item title="colors" %}
+```java
 <resources>
   <color name="ring_blue_100">#1998d5</color>
+
   <color name="ring_blue_35">#591998d5</color>
   <color name="ring_orange_100">#f1670d</color>
   <color name="ring_orange_35">#59f1670d</color>
@@ -227,4 +232,8 @@ extension UIFont {
   <color name="ring_green_10">#1940a142</color>
 </resources>
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
