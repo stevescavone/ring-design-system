@@ -1,4 +1,4 @@
-# 01 Read more
+# 01 Reads
 
 ## Design Guide
 
@@ -11,8 +11,6 @@
 [The iOS Design Guidelines by Ivo Mynttinen](http://ivomynttinen.com/blog/ios-design-guidelines)
 
 ## Design
-
-[Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 
 [How to Design Words](https://medium.com/@jsaito/how-to-design-words-63d6965051e9#.uszqehdh2)
 
