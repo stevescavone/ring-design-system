@@ -1,5 +1,7 @@
 # 01 Color
 
+## Colors
+
 ### Ring Blue
 
 ![](../.gitbook/assets/color-01-blue.png)
@@ -22,7 +24,7 @@
 | Ring Orange 35 | \#59f1670d | rgb\(241, 103, 13, 0.35\) |
 | Ring Orange 10 or Overlay | \#19f1670d | rgb\(241, 103, 13, 0.10\) |
 
-## Ring Red
+### Ring Red
 
 ![](../.gitbook/assets/color-03-red.png)
 
@@ -55,8 +57,6 @@
 | Ring Green 35 | \#5940a142 | rgb\(64, 161, 66, 0.35\) |
 | Ring Green 10 or Overlay | \#1940a142 | rgb\(64, 161, 66, 0.10\) |
 
-## Monochromatic Colors
-
 ### Ring Grey
 
 ![](../.gitbook/assets/color-06-grey-1.png)
@@ -79,7 +79,7 @@
 | Ring Grey Background | \#fafbfc | rgb\(250, 251, 252\) |
 | White 100 | \#ffffff | rgb\(255, 255, 255\) |
 
-### Color Palette
+## Palettes
 
 {% tabs %}
 {% tab title="iOS" %}
@@ -203,7 +203,7 @@ extension UIFont {
 {% tab title="Android" %}
 {% code-tabs %}
 {% code-tabs-item title="colors" %}
-```java
+```markup
 <resources>
   <color name="ring_blue_100">#1998d5</color>
 
@@ -234,6 +234,10 @@ extension UIFont {
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+{% endtab %}
+
+{% tab title="Web" %}
+
 {% endtab %}
 {% endtabs %}
 
