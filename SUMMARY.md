@@ -14,7 +14,7 @@
 * [02 Typography](style/typography.md)
 * [03 Iconography](style/iconography.md)
 * [04 Imagery](style/imagery.md)
-* [05 Layout - iPads & Tablets](style/layout-ipads-and-tablets.md)
+* [05 Layout - Tablet](style/layout-ipads-and-tablets.md)
 
 ## Foundation
 

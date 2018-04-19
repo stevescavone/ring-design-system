@@ -1,4 +1,4 @@
-# 05 Layout - iPads & Tablets
+# 05 Layout - Tablet
 
 ## Problem
 
