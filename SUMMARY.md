@@ -4,13 +4,15 @@
 
 ## Overview
 
-* [Getting started](overview/getting-started.md)
-* [Sketch](overview/sketch.md)
-* [Abstract](overview/abstract.md)
+* [01 Getting started](overview/getting-started.md)
+* [02 Sketch](overview/sketch.md)
+* [03 Abstract](overview/abstract.md)
 
 ## Style
 
-* [Colors](style/colors.md)
+* [01 Color](style/colors.md)
+* [02 Typography](style/typography.md)
+* [03 Iconography](style/iconography.md)
 * [Layers](style/layers.md)
 * [Layout - iPhones & Phones](style/layout-iphones-and-phones.md)
 * [Layout - iPads & Tablets](style/layout-ipads-and-tablets.md)
@@ -18,8 +20,6 @@
 
 ## Atoms
 
-* [Iconography](atoms/iconography.md)
-* [Typography](atoms/typography.md)
 * [Buttons](atoms/buttons.md)
 * [Text Inputs](atoms/text-inputs.md)
 * [iOS Native](atoms/ios-native.md)
@@ -40,6 +40,5 @@
 
 ## Resources
 
-* [Read more](resources/read-more.md)
-* [Getting started](resources/getting-started.md)
+* [01 Read more](resources/read-more.md)
 

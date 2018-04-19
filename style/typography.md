@@ -1,4 +1,4 @@
-# Typography
+# 02 Typography
 
 ## Type
 

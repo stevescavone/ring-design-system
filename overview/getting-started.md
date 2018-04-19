@@ -1,4 +1,4 @@
-# Getting started
+# 01 Getting started
 
 ![](../.gitbook/assets/rds.png)
 
