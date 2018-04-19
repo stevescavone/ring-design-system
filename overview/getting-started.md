@@ -1,14 +1,16 @@
-# Getting Started
+# Getting started
 
 ![](../.gitbook/assets/rds.png)
 
-## Gettings Started
+## Getting started
 
 At Ring, we believe in design that transcends aesthetics. **Our design starts with our highest hope of our neighbors' experience.**
 
 **Designing a neighbor experience is not an ordinary user experience or interface design.** It’s a day-to-day experience with your loving family. It’s a borderless experience whether you're at home, work or even in foreign countries. It's a community experience where you can share your stories with hundreds and thousands in your neighborhood.
 
 **Ring Design System** is our small step to transcribe what we have learned, are learning, and will learn from our neighbors.
+
+
 
 ### Principles
 
@@ -36,6 +38,8 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 * **Break and experiment with the existing user interface components.**
 * **Don't forget the edge cases of different screen sizes and text length per translation. **
 
+
+
 ### **Targets**
 
 #### iOS
@@ -56,9 +60,7 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 * **ANTICIPATE** retina-resolution assets.
 * **EXPECT** delayed releases of features behind iOS and Android.
 
-#### Windows
 
-#### Web
 
 ### Environment
 

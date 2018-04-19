@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [Getting Started](overview/getting-started.md)
+* [Getting started](overview/getting-started.md)
 * [Sketch](overview/sketch.md)
 * [Abstract](overview/abstract.md)
 
