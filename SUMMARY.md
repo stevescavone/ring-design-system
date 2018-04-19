@@ -13,27 +13,26 @@
 * [01 Color](style/colors.md)
 * [02 Typography](style/typography.md)
 * [03 Iconography](style/iconography.md)
-* [Layers](style/layers.md)
-* [Layout - iPhones & Phones](style/layout-iphones-and-phones.md)
+* [04 Imagery](style/imagery.md)
 * [Layout - iPads & Tablets](style/layout-ipads-and-tablets.md)
-* [Imagery](style/imagery.md)
 
-## Atoms
+## Foundation
 
-* [Buttons](atoms/buttons.md)
-* [Text Inputs](atoms/text-inputs.md)
+* [Layers](atoms/layers.md)
 * [iOS Native](atoms/ios-native.md)
 * [Android Native](atoms/android-native.md)
 
-## Molecules
+## Components
 
+* [Buttons](molecules/buttons.md)
+* [Text Inputs](molecules/text-inputs.md)
+* [Text Fields](molecules/text-fields.md)
 * [Tiles](molecules/tiles.md)
 * [Cells](molecules/cells.md)
 * [Cards](molecules/cards.md)
-* [Text Fields](molecules/text-fields.md)
 * [Feedback](molecules/feedback.md)
 
-## Organisms
+## Patterns
 
 * [Contents](organisms/contents.md)
 * [Lists](organisms/lists.md)
@@ -41,4 +40,5 @@
 ## Resources
 
 * [01 Read more](resources/read-more.md)
+* 99 Ring.com
 

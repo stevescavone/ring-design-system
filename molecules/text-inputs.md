@@ -1,6 +1,6 @@
 # Text Inputs
 
-Text Input elements are the atoms that compose [Text Fields](../molecules/text-fields.md).
+Text Input elements are the atoms that compose [Text Fields](text-fields.md).
 
 **Text-Input/3.Label-Caption** is also used in designing cells and tables. \(optional\)
 
