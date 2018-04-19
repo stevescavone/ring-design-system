@@ -1,12 +1,12 @@
 # Buttons
 
-![](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/assets/atoms/button/atom-button-00.png)
+
 
 ## Regular
 
 ### Medium
 
-![](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/assets/atoms/button/atom-button-02.png)
+
 
 #### **States**
 
@@ -26,7 +26,7 @@ Tapped \| Ghost Tapped
 
 ## Small
 
-![](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/assets/atoms/button/atom-button-04.png)
+
 
 #### States
 
@@ -46,9 +46,9 @@ Tapped \| Ghost Tapped
 
 ## Other States
 
-![](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/assets/atoms/button/atom-button-03-state-large-red.png)
 
-![](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/assets/atoms/button/atom-button-03-state-large-grey.png)
+
+
 
 **States**
 
