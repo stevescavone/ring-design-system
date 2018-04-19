@@ -4,7 +4,7 @@
 
 ### Ring Blue
 
-![](/assets/style-colors-and-layers/colors/color-01-blue.png)
+![](../.gitbook/assets/color-01-blue.png)
 
 | **Name** | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 
 ### Ring Orange
 
-![](/assets/style-colors-and-layers/colors/color-02-orange.png)
+![](../.gitbook/assets/color-02-orange.png)
 
 | **Name** | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ## Ring Red
 
-![](/assets/style-colors-and-layers/colors/color-03-red.png)
+![](../.gitbook/assets/color-03-red.png)
 
 | **Name** | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@
 
 ### Ring Yellow
 
-![](/assets/style-colors-and-layers/colors/color-04-yellow.png)
+![](../.gitbook/assets/color-04-yellow.png)
 
 | Name | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -48,7 +48,7 @@
 
 ### Ring Green
 
-![](/assets/style-colors-and-layers/colors/color-05-green.png)
+![](../.gitbook/assets/color-05-green.png)
 
 | **Name** | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -57,13 +57,11 @@
 | Ring Green 35 | \#5940a142 | rgb\(64, 161, 66, 0.35\) |
 | Ring Green 10 or Overlay | \#1940a142 | rgb\(64, 161, 66, 0.10\) |
 
----
-
 ## Monochromatic Colors
 
 ### Ring Grey
 
-![](/assets/style-colors-and-layers/colors/color-06-grey-1.png)
+![](../.gitbook/assets/color-06-grey-1.png)
 
 | **Name** | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -72,11 +70,9 @@
 | Ring Grey 35 | \#59424242 | rgb\(66, 66, 66, 0.35\) |
 | Ring Grey 10 | \#19424242 | rgb\(66, 66, 66, 0.10\) |
 
-### 
-
 ### Ring Black-White
 
-![](/assets/style-colors-and-layers/colors/color-07-grey-2.png)
+![](../.gitbook/assets/color-07-grey-2.png)
 
 | **Name** | **HEX** | **RGB** |
 | :--- | :--- | :--- |
@@ -85,15 +81,11 @@
 | Ring Grey Background | \#fafbfc | rgb\(250, 251, 252\) |
 | White 100 | \#ffffff | rgb\(255, 255, 255\) |
 
-
-
----
-
 ### Color Palette
 
 ### iOS, Swift 4
 
-```
+```text
 extension UIColor {
 
   @nonobjc class var ringBlue100: UIColor {
@@ -207,7 +199,7 @@ extension UIFont {
 
 ### Android, XML
 
-```
+```text
 <resources>
   <color name="ring_blue_100">#1998d5</color>
   <color name="ring_blue_35">#591998d5</color>
@@ -235,6 +227,4 @@ extension UIFont {
   <color name="ring_green_10">#1940a142</color>
 </resources>
 ```
-
-
 

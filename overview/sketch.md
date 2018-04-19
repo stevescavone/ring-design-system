@@ -12,7 +12,7 @@ In "Ring App/Design/Design System" dropbox folder, you will find the following:
 4. Icons in PaintCode, Sketch and SVG formats.
 5. Sketch Resources including Facebook devices, plugins and UI kits.
 
-![](/assets/tutorial/tutorial-8-point.png)
+![](../.gitbook/assets/tutorial-8-point.png)
 
 ### Step 2: Getting on the same page with other designers
 
@@ -24,13 +24,9 @@ In Sketch, press cmd + comma "," to open the preferences panel.
 ### Step 3: Plugging in the plugins
 
 * [Sketch Runner](https://www.gitbook.com/book/kevinsmtenn/ring-design-system/edit#) \(highly recommended\)
-
 * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) \(recommended\)
-
 * [Rename-It](https://rodi01.github.io/RenameIt/) \(optional\)
-
 * [Magic Mirror 3](https://magicsketch.io/mirror/) \(optional\)
-
 * [Sketch Measure](https://github.com/utom/sketch-measure) \(optional\)
 
 ### Step 4: Updating Sketch
@@ -40,8 +36,4 @@ Although we love new tools and features from everyone, for stability reasons, we
 1. This practice increases the stability of our collaboration in Abstract.
 2. This practice buys us time to update our Sketch plugins and other apps that work with Sketch.
 3. This practice prevents us from losing productivity while working on features.
-
-### 
-
-
 

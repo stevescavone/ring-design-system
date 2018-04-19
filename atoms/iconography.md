@@ -1,14 +1,12 @@
 # Iconography
 
-![](/assets/atom-iconography/icon-02-layout.png)
+![](../.gitbook/assets/icon-02-layout.png)
 
 ## Basics
 
 Our icon set's base is at 24x24 px, pt and dp. Our icons follow line icon style with exception of active state. Our line stroke weight is at 1 px, pt and dp. We Use 2 px, pt and dp padding inside the 24x24 frame.
 
----
-
-![](/assets/atom-iconography/icon-01-overview.png)
+![](../.gitbook/assets/icon-01-overview.png)
 
 ## Workflow
 

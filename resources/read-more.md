@@ -1,4 +1,4 @@
-# Read More
+# Read more
 
 ## Design Guide
 
@@ -9,8 +9,6 @@
 [macOS Human Interface Guidelines](https://developer.apple.com/library/prerelease/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/)
 
 [The iOS Design Guidelines by Ivo Mynttinen](http://ivomynttinen.com/blog/ios-design-guidelines)
-
-
 
 ## Design
 
@@ -32,8 +30,6 @@
 
 [It's Time for Designers to Get Comfortable with Being Uncomfortable](https://blog.intercom.com/time-designers-get-comfortable-uncomfortable/)
 
-
-
 ## Proudct
 
 [A Manager's FAQ](https://medium.com/eshares-blog/a-managers-faq-35858a229f84#.9sruuq6s5)
@@ -43,8 +39,6 @@
 [50 Things I've Learned about Product Management](https://hackernoon.com/50-things-ive-learned-about-product-management-300cc67ca6ee#.e4qnyixnl)
 
 [Keeping Information Flowing as You Grow](https://blog.intercom.com/keeping-information-flowing-as-you-grow/)
-
-
 
 ## Fun
 

@@ -1,28 +1,29 @@
-<<<<<<< HEAD
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Overview
 
-* [Getting Started](README.md)
-* [Sketch](sketch.md)
-* [Abstract](resources/abstract.md)
+* [Getting Started](overview/getting-started.md)
+* [Sketch](overview/sketch.md)
+* [Abstract](overview/abstract.md)
 
 ## Style
 
-* [Colors](style.md)
-* [Layers](test.md)
-* [Layout - iPhones & Phones](layout.md)
-* [Layout - iPads & Tablets](layout-ipads-and-tablet.md)
-* [Imagery](imagery.md)
+* [Colors](style/colors.md)
+* [Layers](style/layers.md)
+* [Layout - iPhones & Phones](style/layout-iphones-and-phones.md)
+* [Layout - iPads & Tablets](style/layout-ipads-and-tablets.md)
+* [Imagery](style/imagery.md)
 
 ## Atoms
 
-* [Iconography](iconography.md)
-* [Typography](else.md)
-* [Buttons](buttons.md)
-* [Text Inputs](text-input.md)
-* [iOS Native](ios-native.md)
-* [Android Native](android-native.md)
+* [Iconography](atoms/iconography.md)
+* [Typography](atoms/typography.md)
+* [Buttons](atoms/buttons.md)
+* [Text Inputs](atoms/text-inputs.md)
+* [iOS Native](atoms/ios-native.md)
+* [Android Native](atoms/android-native.md)
 
 ## Molecules
 
@@ -40,9 +41,5 @@
 ## Resources
 
 * [Read more](resources/read-more.md)
-=======
-# Table of contents
-
-* [Getting started](README.md)
->>>>>>> c7ef45df4e8041d5709b395be98a338632a0bfb4
+* [Getting started](resources/getting-started.md)
 

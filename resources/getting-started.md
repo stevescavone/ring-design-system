@@ -1,8 +1,10 @@
-# Introduction
+# Getting started
 
-![](.gitbook/assets/rds.png)
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD 
 
-## Getting Started
+![](../.gitbook/assets/rds.png)
+
+## Gettings Started
 
 At Ring, we believe in design that transcends aesthetics. **Our design starts with our highest hope of our neighbors' experience.**
 
@@ -79,11 +81,34 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 
 #### Abstract
 
-* [Learn more](overview/abstract.md)
+* [Learn more](../overview/abstract.md)
 * [Download macOS app](https://app.goabstract.com/download)
 
 #### PaintCode
 
 * [Learn more](https://www.paintcodeapp.com)
-* [**Ring StyleKit 1.3**](https://www.dropbox.com/sh/03ftllw7ps16te5/AACv8Pr-Qa0hJkDv309x7uQ3a?dl=0)
+* [**Ring StyleKit 1.1.0**](https://www.dropbox.com/sh/03ftllw7ps16te5/AACv8Pr-Qa0hJkDv309x7uQ3a?dl=0)
+
+  **Getting started**
+
+### Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
+```text
+$ give me super-powers
+```
+
+{% hint style="info" %}
+Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```text
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+> > > > > > > c7ef45df4e8041d5709b395be98a338632a0bfb4
 

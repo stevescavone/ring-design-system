@@ -2,7 +2,7 @@
 
 ## Butterbar {#butterbar}
 
-![](/assets/molecules/feedback/butterbar/Butterbar.png)
+![](../.gitbook/assets/butterbar.png)
 
 A **Butterbar** is the most common method of delivering feedback to users in the Ring app.
 
@@ -18,14 +18,12 @@ A **Butterbar** is the most common method of delivering feedback to users in the
 
 **Zeplin**
 
-* [iOS App](zpl://screen?sid=5a61ac02ba218e7607f9377a&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](/zpl.io/aNBkrYd)
+* [iOS App](zpl://screen?sid=5a61ac02ba218e7607f9377a&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/zpl.io/aNBkrYd/README.md)
 * Android App / Android Web
-
----
 
 ## Snackbar {#snackbar}
 
-![](/assets/molecules/feedback/snackbar/Snackbar.png)
+![](../.gitbook/assets/snackbar.png)
 
 A **Snackbar** is the simplest method of delivering feedback to users in the Ring app.
 
@@ -40,12 +38,12 @@ A **Snackbar** is the simplest method of delivering feedback to users in the Rin
 
 **Zeplin**
 
-* [iOS App](zpl://screen?sid=5a61ac02b2c4d1db09718deb&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](/zpl.io/bzy5Nl8)
+* [iOS App](zpl://screen?sid=5a61ac02b2c4d1db09718deb&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/zpl.io/bzy5Nl8/README.md)
 * Android App / Android Web
 
 ## Skybar
 
-![](/assets/molecules/feedback/skybar/Skybar.png)
+![](../.gitbook/assets/skybar.png)
 
 A **Skybar** is a method of delivering push notification alerts in the Ring app.
 
@@ -60,12 +58,12 @@ A **Skybar** is a method of delivering push notification alerts in the Ring app.
 
 **Zeplin**
 
-* [iOS App](zpl://screen?sid=5a61ac03c1c899a85f798417&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](/zpl.io/bLBkPg6)
+* [iOS App](zpl://screen?sid=5a61ac03c1c899a85f798417&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/zpl.io/bLBkPg6/README.md)
 * Android App / Android Web
 
 ## Dialog
 
-![](/assets/molecules/feedback/dialog/Dialog.png)
+![](../.gitbook/assets/dialog.png)
 
 A **Dialog** is a method of delivering "yes/no" OR "are you sure?" type of alerts that takes a high priority in the Ring app.
 
@@ -79,8 +77,6 @@ A **Dialog** is a method of delivering "yes/no" OR "are you sure?" type of alert
 
 **Zeplin**
 
-* [iOS App](zpl://screen?sid=5a6f8021f1faef20afc74abd&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](/zpl.io/a3xY5B8)
+* [iOS App](zpl://screen?sid=5a6f8021f1faef20afc74abd&pid=5a395997e8354b6a0e3b9c73) / [iOS Web](https://github.com/kevin-ring/ring-design-system/tree/8849159db6764601017289d41b84d60f348c1d98/zpl.io/a3xY5B8/README.md)
 * Android App / Android Web
-
-
 

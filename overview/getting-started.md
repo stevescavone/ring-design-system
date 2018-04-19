@@ -1,8 +1,8 @@
-# Introduction
+# Getting Started
 
-![](.gitbook/assets/rds.png)
+![](../.gitbook/assets/rds.png)
 
-## Getting Started
+## Gettings Started
 
 At Ring, we believe in design that transcends aesthetics. **Our design starts with our highest hope of our neighbors' experience.**
 
@@ -79,11 +79,11 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 
 #### Abstract
 
-* [Learn more](overview/abstract.md)
+* [Learn more](abstract.md)
 * [Download macOS app](https://app.goabstract.com/download)
 
 #### PaintCode
 
 * [Learn more](https://www.paintcodeapp.com)
-* [**Ring StyleKit 1.3**](https://www.dropbox.com/sh/03ftllw7ps16te5/AACv8Pr-Qa0hJkDv309x7uQ3a?dl=0)
+* [Ring StyleKit 1.3](https://www.dropbox.com/sh/03ftllw7ps16te5/AACv8Pr-Qa0hJkDv309x7uQ3a?dl=0)
 
