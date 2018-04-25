@@ -56,9 +56,7 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 * **ANTICIPATE** retina-resolution assets.
 * **EXPECT** delayed releases of features behind iOS and Android.
 
-#### Windows
 
-#### Web
 
 ### Environment
 
@@ -85,5 +83,5 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 #### PaintCode
 
 * [Learn more](https://www.paintcodeapp.com)
-* [**Ring StyleKit 1.3**](https://www.dropbox.com/sh/03ftllw7ps16te5/AACv8Pr-Qa0hJkDv309x7uQ3a?dl=0)
+* [**Ring StyleKit 1.4**](https://www.dropbox.com/sh/03ftllw7ps16te5/AACv8Pr-Qa0hJkDv309x7uQ3a?dl=0)
 
