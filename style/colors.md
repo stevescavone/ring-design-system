@@ -1,6 +1,6 @@
 # 01 Color
 
-## Colors
+## Design
 
 ### Ring Blue
 
@@ -81,7 +81,7 @@
 
 ### Ring-White
 
-## Palettes
+## Engineering
 
 {% tabs %}
 {% tab title="iOS" %}
@@ -239,7 +239,46 @@ extension UIFont {
 {% endtab %}
 
 {% tab title="Web" %}
-
+{% code-tabs %}
+{% code-tabs-item title="SCSS" %}
+```css
+$ring-blue-100: #1998d5;
+$ring-red-100: #e7372d;
+$ring-orange-100: #f1670d;
+$ring-yellow-100: #fdd835;
+$ring-green-100: #40a142;
+$black-100: #000000;
+$ring-grey-100: #424242;
+$ring-grey-border: #e0e0e0;
+$ring-grey-background: #fafbfc;
+$white-100: #ffffff;
+$ring-blue-pressed: #1581b5;
+$ring-blue-hover: #3ba7db;
+$ring-orange-hover: #f37d31;
+$ring-green-hover: #5caf5e;
+$ring-red-pressed: #c42e26;
+$ring-green-pressed: #368938;
+$ring-yellow-hover: #fddd53;
+$ring-red-hover: #ea544c;
+$ring-yellow-pressed: #d7b72d;
+$ring-orange-pressed: #cd570b;
+$ring-blue-overlay: #e8f4fa;
+$ring-red-35: #facaab;
+$ring-blue-35: #afdbf1;
+$ring-green-overlay: #ebf5ec;
+$ring-green-35: #bcdebd;
+$ring-orange-35: #f7b9b6;
+$ring-yellow-overlay: #fefbea;
+$ring-grey-overlay: #ececec;
+$ring-yellow-35: #fff2b9;
+$ring-red-overlay: #fdefe6;
+$ring-orange-overlay: #fcebea;
+$ring-grey-35: #bdbdbd;
+$ring-grey-press: #3b3b3b;
+$ring-grey-hover: #555555;
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 
