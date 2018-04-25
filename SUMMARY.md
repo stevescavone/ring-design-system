@@ -11,19 +11,18 @@
 ## Foundation
 
 * [01 Color](style/colors.md)
-* [02 Typography](style/typography.md)
-* [03 Iconography](style/iconography.md)
-* [04 Imagery](style/imagery.md)
-* [05 Layout - Tablet](style/layout-ipads-and-tablets.md)
-* [01 Layer](style/layers.md)
+* [02 Layer](style/layers.md)
+* [03 Typography](style/typography.md)
+* [04 Iconography](style/iconography.md)
+* [05 Imagery](style/imagery.md)
+* [06 Layout - Tablet](style/layout-ipads-and-tablets.md)
 
 ## Components
 
-* 02 System
-* [03 iOS Native](molecules/ios-native.md)
-* [04 Android Native](molecules/android-native.md)
-* [01 Button](molecules/buttons.md)
-* [Text Inputs](molecules/text-inputs.md)
+* 01 System
+* [02 iOS Native](molecules/ios-native.md)
+* [03 Android Native](molecules/android-native.md)
+* [04 Button](molecules/buttons.md)
 * [Text Fields](molecules/text-fields.md)
 * [Tiles](molecules/tiles.md)
 * [Cells](molecules/cells.md)
@@ -33,9 +32,9 @@
 
 ## Patterns
 
-* [01 Content View](organisms/contents.md)
-* [02 Table View](organisms/lists.md)
-* 03 Card View
+* [01 Content Page](organisms/contents.md)
+* [02 Table Page](organisms/lists.md)
+* 03 Card Page
 
 ## Resources
 

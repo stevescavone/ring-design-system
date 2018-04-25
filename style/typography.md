@@ -1,4 +1,4 @@
-# 02 Typography
+# 03 Typography
 
 ## Design
 
