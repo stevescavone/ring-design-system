@@ -79,6 +79,8 @@
 | Ring Grey Background | \#fafbfc | rgb\(250, 251, 252\) |
 | White 100 | \#ffffff | rgb\(255, 255, 255\) |
 
+### Ring-White
+
 ## Palettes
 
 {% tabs %}

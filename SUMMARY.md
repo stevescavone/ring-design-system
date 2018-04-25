@@ -15,10 +15,10 @@
 * [03 Iconography](style/iconography.md)
 * [04 Imagery](style/imagery.md)
 * [05 Layout - Tablet](style/layout-ipads-and-tablets.md)
+* [01 Layer](style/layers.md)
 
 ## Foundation
 
-* [01 Layer](atoms/layers.md)
 * 02 System
 * [03 iOS Native](atoms/ios-native.md)
 * [04 Android Native](atoms/android-native.md)
