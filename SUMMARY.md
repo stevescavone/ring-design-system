@@ -39,5 +39,4 @@
 ## Resources
 
 * [01 Reads](resources/read-more.md)
-* 99 Ring.com
 
