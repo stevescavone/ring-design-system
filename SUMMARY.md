@@ -8,7 +8,7 @@
 * [02 Sketch](overview/sketch.md)
 * [03 Abstract](overview/abstract.md)
 
-## Style
+## Foundation
 
 * [01 Color](style/colors.md)
 * [02 Typography](style/typography.md)
@@ -17,14 +17,11 @@
 * [05 Layout - Tablet](style/layout-ipads-and-tablets.md)
 * [01 Layer](style/layers.md)
 
-## Foundation
-
-* 02 System
-* [03 iOS Native](atoms/ios-native.md)
-* [04 Android Native](atoms/android-native.md)
-
 ## Components
 
+* 02 System
+* [03 iOS Native](molecules/ios-native.md)
+* [04 Android Native](molecules/android-native.md)
 * [01 Button](molecules/buttons.md)
 * [Text Inputs](molecules/text-inputs.md)
 * [Text Fields](molecules/text-fields.md)

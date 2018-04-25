@@ -1,17 +1,13 @@
 # 04 Imagery
 
-
+## Device, Silo
 
 ![](../.gitbook/assets/imagery-silo.png)
-
-## Device, Silo
 
 Device \(silo\) images have the following characteristics:
 
 * 1:1 ratio.
 * PNG, transparent.
-
-![](../.gitbook/assets/imagery-bundle.png)
 
 ## Device, Bundle
 
@@ -38,4 +34,6 @@ POV or point of view images have the following characteristics:
 * 16:9 ratio.
 * For designers only.
 * Available in Doorbell and Cam formats.
+
+![](../.gitbook/assets/imagery-bundle.png)
 
