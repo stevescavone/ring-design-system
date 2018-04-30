@@ -44,7 +44,7 @@
 | Ring Yellow 100 | \#fdd835 | rgba\(253, 216, 53, 1\) |
 | Ring Yellow 65 | \#a6fdd835 | rgba\(253, 216, 53, .65\) |
 | Ring Yellow 35 | \#59fdd835 | rgba\(253, 216, 53, .35\) |
-| Ring Yellow 10 or Overlay | \#1afdd835 | rgba\(253, 216, 53, .10\) |
+| Ring Yellow 10 | \#1afdd835 | rgba\(253, 216, 53, .10\) |
 
 ### 05-Green
 
@@ -55,7 +55,7 @@
 | Ring Green 100 | \#40a142 | rgba\(64, 161, 66, 1\) |
 | Ring Green 65 | \#a640a142 | rgba\(64, 161, 66, .65\) |
 | Ring Green 35 | \#5940a142 | rgba\(64, 161, 66, .35\) |
-| Ring Green 10 or Overlay | \#1a40a142 | rgba\(64, 161, 66, .10\) |
+| Ring Green 10 | \#1a40a142 | rgba\(64, 161, 66, .10\) |
 
 ### 06-Grey
 
