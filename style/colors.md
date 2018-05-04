@@ -108,97 +108,98 @@
 {% code-tabs %}
 {% code-tabs-item title="UIColor+RingColors" %}
 ```swift
-// Color palette IOS
 
-extension UIColor {
+
+public extension UIColor {
+
 
 //01-Blue
 
-  @nonobjc class var ringblue100: UIColor {
+  class var ringbluenormal: UIColor {
     return UIColor(red: 25.0 / 255.0, green: 152.0 / 255.0, blue: 213.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringblueblue65: UIColor {
+  class var ringbluebluelight: UIColor {
     return UIColor(red: 25.0 / 255.0, green: 152.0 / 255.0, blue: 213.0 / 255.0, alpha: 0.65)
   }
 
-  @nonobjc class var ringblueblue35: UIColor {
+class var ringbluebluedisabled: UIColor {
     return UIColor(red: 25.0 / 255.0, green: 152.0 / 255.0, blue: 213.0 / 255.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringblueblue10: UIColor {
+class var ringbluebluetint: UIColor {
     return UIColor(red: 25.0 / 255.0, green: 152.0 / 255.0, blue: 213.0 / 255.0, alpha: 0.1)
   }
 
 //02-Orange
 
-  @nonobjc class var ringorange100: UIColor {
+class var ringorangenormal: UIColor {
     return UIColor(red: 241.0 / 255.0, green: 103.0 / 255.0, blue: 13.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringorange65: UIColor {
+class var ringorangelight: UIColor {
     return UIColor(red: 241.0 / 255.0, green: 103.0 / 255.0, blue: 13.0 / 255.0, alpha: 0.65)
   }
 
-  @nonobjc class var ringorange35: UIColor {
+class var ringorangedisabled: UIColor {
     return UIColor(red: 241.0 / 255.0, green: 103.0 / 255.0, blue: 13.0 / 255.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringorange10: UIColor {
+class var ringorangetint: UIColor {
     return UIColor(red: 241.0 / 255.0, green: 103.0 / 255.0, blue: 13.0 / 255.0, alpha: 0.1)
   }
 
 //03-Red
 
-  @nonobjc class var ringred100: UIColor {
+class var ringrednormal: UIColor {
     return UIColor(red: 231.0 / 255.0, green: 55.0 / 255.0, blue: 45.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringred65: UIColor {
+class var ringredlight: UIColor {
     return UIColor(red: 231.0 / 255.0, green: 55.0 / 255.0, blue: 45.0 / 255.0, alpha: 0.65)
   }
 
-  @nonobjc class var ringred35: UIColor {
+class var ringreddisabled: UIColor {
     return UIColor(red: 231.0 / 255.0, green: 55.0 / 255.0, blue: 45.0 / 255.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringred10: UIColor {
+class var ringredtint: UIColor {
     return UIColor(red: 231.0 / 255.0, green: 55.0 / 255.0, blue: 45.0 / 255.0, alpha: 0.1)
   }
 
 //04-Yellow
 
-  @nonobjc class var ringyellow100: UIColor {
+class var ringyellownormal: UIColor {
     return UIColor(red: 253.0 / 255.0, green: 216.0 / 255.0, blue: 53.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringyellow65: UIColor {
+class var ringyellowlight: UIColor {
     return UIColor(red: 253.0 / 255.0, green: 216.0 / 255.0, blue: 53.0 / 255.0, alpha: 0.65)
   }
 
-  @nonobjc class var ringyellow35: UIColor {
+class var ringyellowdisabled: UIColor {
     return UIColor(red: 253.0 / 255.0, green: 216.0 / 255.0, blue: 53.0 / 255.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringyellow10: UIColor {
+class var ringyellowtint: UIColor {
     return UIColor(red: 253.0 / 255.0, green: 216.0 / 255.0, blue: 53.0 / 255.0, alpha: 0.1)
   }
 
 //05-Green
 
-  @nonobjc class var ringgreen100: UIColor {
+class var ringgreennormal: UIColor {
     return UIColor(red: 64.0 / 255.0, green: 161.0 / 255.0, blue: 66.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringgreen65: UIColor {
+class var ringgreenlight: UIColor {
     return UIColor(red: 64.0 / 255.0, green: 161.0 / 255.0, blue: 66.0 / 255.0, alpha: 0.65)
   }
 
-  @nonobjc class var ringgreen35: UIColor {
+class var ringgreendisabled: UIColor {
     return UIColor(red: 64.0 / 255.0, green: 161.0 / 255.0, blue: 66.0 / 255.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringgreen10: UIColor {
+class var ringgreentint: UIColor {
     return UIColor(red: 64.0 / 255.0, green: 161.0 / 255.0, blue: 66.0 / 255.0, alpha: 0.1)
   }
 
@@ -206,46 +207,46 @@ extension UIColor {
 //06-Grey
 
 
-  @nonobjc class var ringgrey100: UIColor {
+class var ringgreynormal: UIColor {
     return UIColor(white: 66.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringgrey65: UIColor {
+class var ringgreylight: UIColor {
     return UIColor(white: 66.0 / 255.0, alpha: 0.65)
   }
 
-  @nonobjc class var ringgrey35: UIColor {
+class var ringgreydisabled: UIColor {
     return UIColor(white: 66.0 / 255.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringgrey10: UIColor {
+class var ringgreytint: UIColor {
     return UIColor(white: 66.0 / 255.0, alpha: 0.1)
   }
 
 //07-White
 
-  @nonobjc class var ringwhite100: UIColor {
+class var ringwhitenormal: UIColor {
     return UIColor(white: 1.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringwhite65: UIColor {
+ class var ringwhitelight: UIColor {
     return UIColor(white: 1.0, alpha: 0.65)
   }
 
-   @nonobjc class var ringwhite35: UIColor {
+class var ringwhitedisabled: UIColor {
     return UIColor(white: 1.0, alpha: 0.35)  }
 
-  @nonobjc class var ringwhite10: UIColor {
+class var ringwhitetint: UIColor {
     return UIColor(white: 1.0, alpha: 0.1)
   }
 
 //8-Grey-Layer
 
-  @nonobjc class var ringgrayborder: UIColor {
+class var ringgrayborder: UIColor {
     return UIColor(white: 224.0 / 255.0, alpha: 1.0)
   }
 
-  @nonobjc class var ringgreybg: UIColor {
+class var ringgreybg: UIColor {
     return UIColor(red: 250.0 / 255.0, green: 251.0 / 255.0, blue: 252.0 / 255.0, alpha: 1.0)
   }
 
@@ -254,23 +255,22 @@ extension UIColor {
 
 //09-Overlays
 
-  @nonobjc class var ringblack100: UIColor {
+class var ringblack: UIColor {
     return UIColor(white: 0.0, alpha: 1.0)
   }
 
 
-  @nonobjc class var ringoverlay35: UIColor {
+class var ringoverlaylight: UIColor {
     return UIColor(white: 0.0, alpha: 0.35)
   }
 
-  @nonobjc class var ringshadow15: UIColor {
+class var ringshadow: UIColor {
     return UIColor(white: 0.0, alpha: 0.15)
   }
 
-  @nonobjc class var ringoverlay10: UIColor {
+class var ringoverlaytint: UIColor {
     return UIColor(white: 0.0, alpha: 0.1)
   }
-
 
 
 // Sample text styles
