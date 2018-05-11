@@ -23,17 +23,12 @@
 * [02 iOS Native](molecules/ios-native.md)
 * [03 Android Native](molecules/android-native.md)
 * [04 Button](molecules/buttons.md)
-* [Text Fields](molecules/text-fields.md)
-* [Tiles](molecules/tiles.md)
-* [Cells](molecules/cells.md)
-* [Cards](molecules/cards.md)
-* [Feedback](molecules/feedback.md)
+* [05 Text Fields](molecules/text-fields.md)
+* [06 Table](molecules/cells.md)
+* [07 Cards](molecules/cards.md)
+* [08 Feedback](molecules/feedback.md)
 
 ## Patterns
-
-* [01 Content Page](organisms/contents.md)
-* [02 Table Page](organisms/lists.md)
-* 03 Card Page
 
 ## Resources
 
