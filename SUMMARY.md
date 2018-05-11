@@ -27,7 +27,6 @@
 * [Tiles](molecules/tiles.md)
 * [Cells](molecules/cells.md)
 * [Cards](molecules/cards.md)
-* Toolbar
 * [Feedback](molecules/feedback.md)
 
 ## Patterns
