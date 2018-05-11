@@ -1,44 +1,26 @@
 # 04 Button
 
+
+
+![](../.gitbook/assets/button-00-overview.png)
+
 ## Regular
 
-### Medium
+![](../.gitbook/assets/button-01-state-large.png)
 
-#### **States**
+![](../.gitbook/assets/button-01-state-large-red.png)
 
-Default \| Ghost Default
+![](../.gitbook/assets/button-01-state-large-grey.png)
 
-Inactive \| Ghost Inactive
-
-Tapped \| Ghost Tapped
-
-### Anatomy
-
-#### **Zeplin**
-
-[iOS](https://app.zeplin.io/project/5a395997e8354b6a0e3b9c73/dashboard?seid=5ab1467e820e70df6b3fa109) \| [Android](https://app.zeplin.io/project/5a395997e8354b6a0e3b9c73/dashboard?seid=5ab1467e820e70df6b3fa109)
+[iOS](https://app.zeplin.io/project/5a395997e8354b6a0e3b9c73/dashboard?seid=5ab1467e820e70df6b3fa109) \| [Android](https://app.zeplin.io/project/5a39599115b7f3ec5f3326a0/dashboard?seid=5a986316b46942419ccc6936)
 
 ## Small
 
-#### States
+![](../.gitbook/assets/button-02-state-small.png)
 
-Default \| Ghost Default
+![](../.gitbook/assets/button-02-state-small-red.png)
 
-Inactive \| Ghost Inactive
+![](../.gitbook/assets/button-02-state-small-grey.png)
 
-Tapped \| Ghost Tapped
-
-### Anatomy
-
-#### **Zeplin**
-
-[iOS](https://app.zeplin.io/project/5a395997e8354b6a0e3b9c73/dashboard?seid=5ab1467e820e70df6b3fa109) \| [Android](https://app.zeplin.io/project/5a395997e8354b6a0e3b9c73/dashboard?seid=5ab1467e820e70df6b3fa109)
-
-## Other States
-
-**States**
-
-Red
-
-Grey
+[iOS](https://app.zeplin.io/project/5a395997e8354b6a0e3b9c73/dashboard?seid=5ab1467e820e70df6b3fa109) \| [Android](https://app.zeplin.io/project/5a39599115b7f3ec5f3326a0/dashboard?seid=5a986316b46942419ccc6936)
 
