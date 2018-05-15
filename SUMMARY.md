@@ -33,4 +33,8 @@
 ## Resources
 
 * [01 Reads](resources/read-more.md)
+* Radii
+* Shadows
+* Opacity
+* Spacings \[WIP\]
 
