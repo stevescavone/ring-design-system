@@ -34,7 +34,7 @@ At Ring, we believe in design that transcends aesthetics. **Our design starts wi
 
 * **Don't be too cute.**
 * **Break and experiment with the existing user interface components.**
-* **Don't forget the edge cases of different screen sizes and text length per translation. **
+* **Don't forget the edge cases of different screen sizes and text length per translation.** 
 
 ### **Targets**
 

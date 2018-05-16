@@ -182,7 +182,7 @@ extension UIColor {
   @nonobjc class var ringGrey35: UIColor {
     return UIColor(white: 66.0 / 255.0, alpha: 0.35)
   }
-  @nonobjc class var black100: UIColor {
+  @nonobjc class var ringBlack100: UIColor {
     return UIColor(white: 0.0, alpha: 1.0)
   }
   @nonobjc class var ringGreyBorder: UIColor {
@@ -191,7 +191,7 @@ extension UIColor {
   @nonobjc class var ringGreyBackground: UIColor {
     return UIColor(red: 250.0 / 255.0, green: 251.0 / 255.0, blue: 252.0 / 255.0, alpha: 1.0)
   }
-  @nonobjc class var white100: UIColor {
+  @nonobjc class var ringWhite100: UIColor {
     return UIColor(white: 1.0, alpha: 1.0)
   }
 }
