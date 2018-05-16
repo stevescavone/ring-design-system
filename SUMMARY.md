@@ -10,6 +10,10 @@
 
 ## Foundation
 
+* 00-Spacings \[WIP\]
+* [00-Radii](style/radii.md)
+* [00-Shadows](style/shadows.md)
+* [00-Opacity](style/opacity.md)
 * [01 Color](style/colors.md)
 * [02 Layer](style/layers.md)
 * [03 Typography](style/typography.md)
@@ -33,8 +37,4 @@
 ## Resources
 
 * [01 Reads](resources/read-more.md)
-* Radii
-* Shadows
-* Opacity
-* Spacings \[WIP\]
 
