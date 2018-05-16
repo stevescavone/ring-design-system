@@ -1,8 +1,14 @@
 # 02 Layer
 
+## Flat
+
 ![](../.gitbook/assets/layer-01-overview%20%281%29.png)
 
+## Raised
+
 ![](../.gitbook/assets/layer-02-overview.png)
+
+## Toolbars
 
 ![](../.gitbook/assets/navbar-01-overview.png)
 
