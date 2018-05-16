@@ -342,7 +342,7 @@ $black-100: #000000;
 $ring-grey-100: #424242;
 $ring-grey-border: #e0e0e0;
 $ring-grey-background: #fafbfc;
-$white-100: #ffffff;
+$ring-white-100: #ffffff;
 $ring-blue-pressed: #1581b5;
 $ring-blue-hover: #3ba7db;
 $ring-orange-hover: #f37d31;
